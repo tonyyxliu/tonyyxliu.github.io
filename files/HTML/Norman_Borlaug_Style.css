@@ -1,0 +1,46 @@
+#main {
+    background-color: #F0F0F0;
+    padding: 50px 50px 50px 50px;
+}
+#title h1 {
+    text-align: center;
+}
+#sub-title p {
+    text-align: center;
+    color: gray;
+}
+#image {
+    text-align: center;   
+    background-color: white;
+    padding: 20px 50px 20px 50px;  
+}
+#iamge-text p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+    font-size: medium;
+}
+#main-article {
+    padding: 40px 400px 40px 400px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: justify;
+    line-height: 40px;
+    color: #4F4F4F;
+    text-indent: -55px;
+}
+#main-article strong {
+    color: black;
+}
+#main-article h3 {
+    text-align: center;
+    color: black;
+}
+#main-article #others-comment {
+    font-style: italic;
+    text-indent: 0%;
+}
+#end {
+    text-align: center;
+    font-weight: bold;
+}

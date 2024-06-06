@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="Tony Liu Yuxuan" date="September 16, 2020">
+    <title> Product Landing Page </title>
+
+<style>
+    /* Take <a> hyper-link just like normal words */
+    a:link {color: black}
+    a:hover {color: black}
+    a:active {color: black}
+    a:visited {color: black}
+
+    body {
+        background-color: #FCFCFC;
+    }
+
+    #nav-bar {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 50px;
+    }
+    #nav-bar-img {
+        /* text-align: left; */
+        border: "0%";
+        height: 50px;
+        width: 450px;
+        float: left;
+        margin-left: 20px;
+    } 
+    .nav-bar-text {
+        float: right;
+        margin-right: 20px;
+    }
+    .nav-bar-text a {
+        font-size: 28px;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 10px 40px;
+        text-decoration: none;
+    }
+    #introduction {
+        text-align: center;
+    }
+    #email {
+        width: 300px;
+        height: 25px;
+    }
+    #email-button {
+        width: 120px;
+        height: 25px;
+        font-size: 14px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-top: 15px;
+    }
+    button {
+        background-color: yellow;
+    }
+    button:hover {
+        background-color: orange;
+    }
+
+    #features {
+        margin: 40px 50px 40px 350px;
+    }
+    .feature-title {
+        font-weight: bold;
+        text-transform: capitalize;
+        font-size: 16px;
+    }
+    .feature-text {
+        font-size: 10px;
+    }
+    .sub-feature {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        height: 80px;
+        width: 70%;
+    }
+    .icons {
+        float: left;
+        width: 80px;
+        height: 80px;
+        padding-right: 40px;
+    }
+</style>
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <div id="nav-bar">
+            <img id="nav-bar-img" src="images/Product_Landing_Page/Product_Landing_Page_navIcon.png" alt="Original Trombones Icon"> 
+            <section class="nav-bar-text">
+                <a href="#features" >Feature</a>
+                <a href="#how-it-work"> How it works </a>
+                <a href="#price"> Price </a>
+            </section>
+    </div>
+    <br />
+    <div id="introduction">
+        <h2> Handcrafted, home-made masterpieces </h2>
+        <label for="email">
+            <input type="text" class="user-input" id="email" placeholder="Enter your email address:" required>
+        </label>
+        <br />
+        <button type="submit" class="button" id="email-button"> Get Started </button>
+    </div>
+    <div id="features">
+        <div class="sub-feature">
+            <img src="images/Product_Landing_Page/Product_Landing_Page_icon1.PNG" alt="Premium Materials" class="icons">
+            <p class="feature-text"> <span class="feature-title">Premium Materials </span> <br />
+                Our trombones use the shinest brass which is sourced locally. This will increase the longevity of your purchase. </p>
+        </div>
+
+        <div class="sub-feature">
+            <img src="images/Product_Landing_Page/Product_Landing_Page_icon2.PNG" alt="Fast-Shipping" class="icons">
+            <p class="feature-text"> <span class="feature-title"> Fast Shipping </span> <br />
+                We make sure you receive your trombone as soon as we have finished making it. We also provide free returns if you are not satisfied. </p>
+        </div>
+
+        <div class="sub-feature">
+            <img src="images/Product_Landing_Page/Product_Landing_Page_icon3.PNG" alt="Quality Assurance" class="icons">
+            <p class="feature-text"> <span class="feature-title"> Quality Assurance </span> <br />
+                For every purchase you make, we will ensure there are no damages or faults and we will check and test the pitch of your instrument. </p>
+        </div>
+    </div>
+</body>
+</html>

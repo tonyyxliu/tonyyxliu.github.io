@@ -1,0 +1,56 @@
+body {
+    background-image: url(images/Microsoft_Office.jpeg), linear-gradient(rgba(92,68,187,0.6), rgba(91,68,187,0.6));
+    /* background-color: #5C44BB; */
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+#main {
+    background-color: rgba(0,0,40,0.8);
+    color: white;
+    margin: 0px 400px 0px 400px;
+    font-size: 20px;
+}
+#title {
+    color: white;
+    padding: 50px 100px 30px 100px;
+    text-align: center;
+}
+#survey {
+    padding: 20px 50px 20px 50px;
+}
+.user-input {
+    border-radius: 5px;
+    height: 35px;
+    width: 100%;
+}
+#suggestion {
+    height: 100px;
+}
+#place-to-improve {
+    line-height: 150%;
+}
+#submit-button {
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+:placeholder-shown {
+    padding-left: 10px;
+    font-size: large;
+}
+select option {
+    font-size: 20px;
+}
+input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+}
+input[type="radio"] {
+    height: 18px;
+    width: 18px;
+}
+textarea {
+    font-size: 20px;
+	width: fixed;
+}
