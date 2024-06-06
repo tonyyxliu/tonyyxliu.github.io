@@ -21,10 +21,10 @@ tags:
 ## Step-7：数据库交互
 
 常见的数据库操作：
-- 增：增加（Insert）
-- 删：删除（Delete）
-- 改：修改更新（Update）
-- 查：查询（Select）
+* 增：增加（Insert）
+* 删：删除（Delete）
+* 改：修改更新（Update）
+* 查：查询（Select）
 
 ### 重点1：提前规划好你的数据库表结构
 
