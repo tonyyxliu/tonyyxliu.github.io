@@ -1,7 +1,7 @@
 ---
 title: '如何从零开始搭建自己的个人网站(3)——后端'
 date: 24-06-06
-permalink: /posts/2024/06/如何从零开始搭建自己的个人网站(3)——后端/
+permalink: /posts/2024/06/how-to-build-your-own-personal-website-3-backend/
 tags:
   - 后端开发
   - 网站搭建

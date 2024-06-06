@@ -1,7 +1,7 @@
 ---
 title: '如何从零开始搭建自己的个人网站（1）——明确需求'
 date: 24-06-06
-permalink: /posts/2024/06/如何从零开始搭建自己的个人网站(1)——明确需求/
+permalink: /posts/2024/06/how-to-build-your-own-personal-website-1-overview/
 tags:
   - 前端开发
   - 后端开发
