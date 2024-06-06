@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, The Chinese University of Hong Kong, Shenzhen, 2027 (expected) (supervisor: Prof.Yeh-Ching Chung)
+* B.S. in Computing and Information Engineering, The Chinese University of Hong Kong, Shenzhen, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* From 2023-02 to 2024-06: Research Intern
+  * Huawei Inc
+  * Duties includes: design and implement unified load generator for latency-critical worklaods
+  * Collaborated with Shuhai Lab in Huawei Cloud System Engineering Department
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From 2022-06 to 2023-02: Research Intern
+  * Alibaba Cloud Inc.
+  * Duties included: implement Graph-based catalogue to find the optimized execution plan of graph pattern match (GPM) queries
+  * Supervisor: Dr. Longbin Lai
   
 Skills
 ======
