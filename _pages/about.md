@@ -9,7 +9,7 @@ redirect_from:
 
 ## Autobiography
 
-I am currently a second-year Ph.D. student in computer science supervised by Prof.Yeh-Ching Chung (钟叶青教授) in the Chinese University of Hong Kong, Shenzhen, and am about to graduate in 2027.
+I am currently a second-year Ph.D. student in computer science supervised by Prof.Yeh-Ching Chung（[钟叶青教授](https://www.cs.nthu.edu.tw/~ychung/)） in the Chinese University of Hong Kong, Shenzhen, and am about to graduate in 2027.
 
 My research interests includes the design and implementation of load generator for latency-critical workloads, workload characterization, and how to take advantage of the loadgen simulation data to better optimize the system performance like request scheduling with bypass OS. I have also done a research project with Alibaba Inc related to graph computing, specifically, optimizing the execution plan of graph pattern match for fast graph query.
 
