@@ -10,4 +10,4 @@ location: "Shenzhen, Guangdong"
 
 I was the administrator and maitainer of the cluster with Slurm task management system where students submit their parallel tasks. Besides, this time I was the leading TA, and needs to manage other TAs and USTFs (Undergraduate Student Teaching Fellow) with the course instructor
 
-**Instructor: Prof. Wei-Chung Hsu**
+**Instructor:** [Prof. Wei-Chung Hsu（徐慰中教授）](https://www.csie.ntu.edu.tw/~hsuwc/index.html)

@@ -10,4 +10,4 @@ location: "Shenzhen, Guangdong"
 
 I was the only TA of this course, and needed to handle all the works alone, including designing and grading programming projects, giving tutorial sessions, and conducting Q&A sessions for students.
 
-**Instructor: Prof. Yeh-Ching Chung**
+**Instructor:** [Prof.Yeh-Ching Chung（钟叶青教授）](https://www.cs.nthu.edu.tw/~ychung/)

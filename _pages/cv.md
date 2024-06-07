@@ -13,24 +13,24 @@ Education
 ======
 * **Ph.D in Computer Science**, 2022 ~ 2027 (expected graduation)
   * The Chinese University of Hong Kong, Shenzhen
-  * Supervisor: Prof.Yeh-Ching Chung（[钟叶青教授](https://www.cs.nthu.edu.tw/~ychung/)）
+  * Supervisor: [Prof.Yeh-Ching Chung（钟叶青教授）](https://www.cs.nthu.edu.tw/~ychung/) 
 * **B.S. of Engineering**, 2018 ~ 2022
   * The Chinese University of Hong Kong, Shenzhen
   * With Honours, Second Class Upper Division
   * Majored in Computer Science and Engineering
-  * Academic Advisor: Prof.Yeh-Ching Chung
+  * Academic Advisor: [Prof.Yeh-Ching Chung（钟叶青教授）](https://www.cs.nthu.edu.tw/~ychung/) 
 
 Work experience
 ======
 * **2023-02 ~ 2024-06: Research Intern**
   * Cloud System Engineering Department, Huawei
   * Duties include: design and implement unified load generator for latency-critical worklaods
-  * Supervisor: Prof. Zhibin Yu（[喻之斌教授](https://people.ucas.edu.cn/~zhibinyu)）, Dr. Shuang Chen（[陈爽博士](https://sc2682cornell.github.io/)）
+  * Supervisor: [Prof. Zhibin Yu（喻之斌教授）](https://people.ucas.edu.cn/~zhibinyu), [Dr. Shuang Chen（陈爽博士）](https://sc2682cornell.github.io/)
 
 * **2022-06 ~ 2023-02: Research Intern**
   * Damo Academy, Alibaba Cloud
   * Duties include: implement Graph-based catalogue to find the optimized execution plan of graph pattern match (GPM) queries
-  * Supervisor: Dr. Longbin Lai（[赖龙彬博士](https://lai.me/)）
+  * Supervisor: [Dr. Longbin Lai（赖龙彬博士）](https://lai.me/)
   
 * **2021-05 ~ 2021-09: Frontend Developer Intern**
   * Product Content Group (PCG), Tencent

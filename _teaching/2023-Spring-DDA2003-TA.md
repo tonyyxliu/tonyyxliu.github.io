@@ -10,4 +10,4 @@ location: "Shenzhen, Guangdong"
 
 I serve as the leading TA, and was reponsible for giving tutorial sessions to students, that taught them how to write basic programs for data visualization.
 
-**Instructor: Prof. Jun Han**
+**Instructor:** [Prof. Jun Han (韩俊教授)](https://stevenhan1991.github.io/)

@@ -10,4 +10,4 @@ location: "Shenzhen, Guangdong"
 
 I was the administrator and maitainer of the cluster with Slurm task management system where students submit their parallel tasks. Besides, I graded two of the programming projects and conducted Q&A session for students.
 
-**Instructor: Prof. Yeh-Ching Chung**
+**Instructor:** [Prof.Yeh-Ching Chung（钟叶青教授）](https://www.cs.nthu.edu.tw/~ychung/)
