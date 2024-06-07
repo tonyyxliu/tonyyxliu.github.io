@@ -11,8 +11,16 @@ redirect_from:
 
 I am currently a second-year Ph.D. student in computer science supervised by Prof.Yeh-Ching Chung（[钟叶青教授](https://www.cs.nthu.edu.tw/~ychung/)） in the Chinese University of Hong Kong, Shenzhen, and am about to graduate in 2027.
 
-My research interests includes the design and implementation of load generator for latency-critical workloads, workload characterization, and how to take advantage of the loadgen simulation data to better optimize the system performance like request scheduling with bypass OS. I have also done a research project with Alibaba Inc related to graph computing, specifically, optimizing the execution plan of graph pattern match for fast graph query.
+My main research interests include:
+* Load Generation for Latency-Critical Workloads
+* Workload Characterization
+* Optimized Request Scheduling Algorithm for Short Tail Latency with Bypass OS
+
+Some other fields also interest me:
+* FPGA Acceration of AI Computation (Microsoft's Catapult and Brainwave Project)
+* Optimized Execution Plan of Graph Pattern Match
+* AI Compiler (TVM, IREE)
 
 Before my Ph.D., I obtained my Bachelor's degree on computer and information engineering in the Chinese University of Hong Kong, Shenzhen. During my junior and senior years, I was doing an internship in Kingdee and Tencent as a frontend software developer.
 
-I am about to continuously upload blog posts to talk about things that interest me, and hopefully you would like them.
+I am about to continuously upload blog posts to talk about things that interest me. Hopefully, you would like them! (^v^)
