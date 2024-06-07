@@ -11,29 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, The Chinese University of Hong Kong, Shenzhen, 2027 (expected) (supervisor: Prof.Yeh-Ching Chung)
-* B.S. in Computing and Information Engineering, The Chinese University of Hong Kong, Shenzhen, 2022
+* **Ph.D in Computer Science**, 2022 ~ 2027 (expected graduation)
+  * The Chinese University of Hong Kong, Shenzhen
+  * Supervisor: Prof.Yeh-Ching Chung
+* **B.S. of Engineering**, 2018 ~ 2022
+  * The Chinese University of Hong Kong, Shenzhen
+  * With Honours, Second Class Upper Division
+  * Majored in Computer Science and Engineering
+  * Academic Advisor: Prof.Yeh-Ching Chung
 
 Work experience
 ======
-* From 2023-02 to 2024-06: Research Intern
-  * Huawei Inc
-  * Duties includes: design and implement unified load generator for latency-critical worklaods
-  * Collaborated with Shuhai Lab in Huawei Cloud System Engineering Department
+* **2023-02 ~ 2024-06: Research Intern**
+  * Cloud System Engineering Department, Huawei
+  * Duties include: design and implement unified load generator for latency-critical worklaods
+  * Supervisor: Prof. Zhibin Yu, Dr. Shuang Chen
 
-* From 2022-06 to 2023-02: Research Intern
-  * Alibaba Cloud Inc.
-  * Duties included: implement Graph-based catalogue to find the optimized execution plan of graph pattern match (GPM) queries
+* **2022-06 ~ 2023-02: Research Intern**
+  * Damo Academy, Alibaba Cloud
+  * Duties include: implement Graph-based catalogue to find the optimized execution plan of graph pattern match (GPM) queries
   * Supervisor: Dr. Longbin Lai
   
+* **2021-05 ~ 2021-09: Frontend Developer Intern**
+  * Product Content Group (PCG), Tencent
+  * Duties include: design and implement components for internal low-code frontend development platform with Vuejs
+  * Supervisor: Mr. Songcai Lin
+
+* **2021-03 ~ 2021-05: Frontend Developer Intern**
+  * User Experience Department,  Kingdee
+  * Implement webpages of dashboard for internal demonstration with React, Ant Design, and ECharts
+  * Supervisor: Mr. Junjie Xiao
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++ Programming
+* Parallel Programming in C/C++/CUDA/OpenACC
+* Basic Compiler Implementation
+* Basic Knowledge for Rust, Golang, and Python
+* Frontend Development (HTML/CSS/JavaScript + Vue/React)
+* Basic Backend Development
+  * MySQL Database
+  * Gin API
+* Network Programming
+* Load Generator Implementation
 
 Publications
 ======
@@ -55,4 +75,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Have been leading TA for 3 different UG courses
+* Core Member of Research Project with Huawei Shuhai Lab
