@@ -14,10 +14,10 @@ I am currently a second-year Ph.D. student in computer science supervised by Pro
 My main research interests include:
 * Load Generation for Latency-Critical Workloads
 * Workload Characterization
-* Optimized Request Scheduling Algorithm for Short Tail Latency with Bypass OS
+* Optimized Request Scheduling Algorithm for Short Tail Latency with Bypass OS ([Survey Slides](../files/slides/2024-Spring-CSC6032-Project-Slides-Request-Scheduling-For-Low-Tail-Latency.pptx))
 
 Some other fields also interest me:
-* FPGA Acceration of AI Computation (Microsoft's Catapult and Brainwave Project)
+* FPGA Acceration of AI Computation (Microsoft's Catapult and Brainwave Project, [Survey Slides](../files/slides/2023-Fall-CSC6031-Project-Slides-FPGA-AI-Acceleration.pptx))
 * Optimized Execution Plan of Graph Pattern Match
 * AI Compiler (TVM, IREE)
 
