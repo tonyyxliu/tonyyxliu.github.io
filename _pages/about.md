@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Autobiography
+## Biography
 
 I am currently a second-year Ph.D. student in computer science supervised by [Prof.Yeh-Ching Chung（钟叶青教授）](https://www.cs.nthu.edu.tw/~ychung/) in the Chinese University of Hong Kong, Shenzhen, and am about to graduate in 2027.
 
