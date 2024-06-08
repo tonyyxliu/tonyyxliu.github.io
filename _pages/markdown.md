@@ -1,11 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Guidelines to Modify Website's Content (Admin Only)"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+This page is all from AcademicPapers.com and presents the guidelines for administrators of this website to modify the content. **Visitors can ignore this page.**
 
 ## Locations of key files/directories
 
