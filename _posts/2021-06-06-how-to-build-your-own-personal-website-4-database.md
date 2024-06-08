@@ -1,6 +1,6 @@
 ---
 title: '如何从零开始搭建自己的个人网站(4)——数据库'
-date: 2024-06-06
+date: 2021-06-06
 permalink: /posts/2024/06/how-to-build-your-own-personal-website-4-database/
 tags:
   - 后端开发

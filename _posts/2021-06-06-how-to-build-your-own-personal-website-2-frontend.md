@@ -1,6 +1,6 @@
 ---
 title: '如何从零开始搭建自己的个人网站（2）—— 前端'
-date: 2024-06-06
+date: 2021-06-06
 permalink: /posts/2024/06/how-to-build-your-own-personal-website-2-frontend/
 tags:
   - 前端开发
